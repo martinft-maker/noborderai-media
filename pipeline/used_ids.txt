@@ -1,0 +1,5 @@
+# NNN|dato|tid|krok|media_id (Higgsfield) – status
+001|2026-11-25|13:15|Me: just a LITTLE more cheese|76c1939e-826a-46fc-921a-a51bbe4681de
+002|-|-|When parallel parking is just too hard|a370bbcc-bc3e-4e03-8557-bece446897c4 – IKKE POSTET (bilmerke som ligner ekte produsent)
+003|2026-11-25|20:45|I asked my robot to make me a sandwich|a2301d81-b06b-4e67-96e7-1b1181b27c35
+004|2026-11-24|20:45|Monday meetings, but it's a movie trailer|dcfa4629-dbb6-4dfd-bb89-3a22f9604e59
