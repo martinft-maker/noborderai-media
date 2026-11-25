@@ -5,3 +5,19 @@
 004|2026-11-24|20:45|Monday meetings, but it's a movie trailer|dcfa4629-dbb6-4dfd-bb89-3a22f9604e59
 005|2026-11-26|13:15|Assembling furniture, but it's a war movie|76c146a0-b92d-4558-892e-19529a71c784
 006|2026-11-25|20:45|Self-checkout, but it's a horror movie|fb73ee39-34c4-4ff4-b508-ae5810a881f5
+007|2026-11-26|20:45|Finding the Wi-Fi password, but it's a heist|c96268e0-a27f-4265-a4b8-495cf192ddb9
+008|2026-11-27|13:15|The office printer, but it's a nature documentary|4c2ffa15-1508-4e29-9450-86c2ea2702c9
+009|2026-11-28|20:45|Leaving a family party takes 9 hours|68f855de-c2d7-4d71-a5af-f558d98a3f64
+010|-|-|On hold with customer service, day 14|- – IKKE POSTET (rotete tekst på telefonskjerm; laget på nytt som 020)
+011|2026-12-02|20:45|The group chat picking a restaurant|dea27422-8218-4476-867a-d1ed1697cfb8 (første 2,5 s klippet bort – rotert åpningsbilde; 7,5 s)
+012|2026-11-27|20:45|Dad at the barbecue, but it's an action movie|8ea00972-9d16-497c-9f70-bda1e0285737
+013|2026-12-01|13:15|My alarm clock thinks it's a rocket launch|e3c761d5-0af3-43ea-8a91-2b29958022f7
+014|2026-11-29|13:15|Thermostat wars at 3am|3bf15257-2f92-42e4-8deb-4b15152b6189
+015|2026-11-30|13:15|Opening chips quietly in an open office|e3594204-737e-4628-a61e-c1092488e00f
+016|-|-|When someone hits reply-all at work|- – IKKE POSTET (ekte skjermmerke-logo i bakgrunnen)
+017|2026-11-29|20:45|My neighbor's leaf blower at 7am|656c55f4-e878-4598-957a-3b79053f0470
+018|2026-11-28|13:15|Folding a fitted sheet, but it's kung fu|99fc66b8-0314-4c7a-9325-af5c8cdbb018
+019|2026-12-01|20:45|When they open a new checkout lane|2e198895-117a-4336-beed-97a207bec791
+020|2026-11-30|20:45|On hold with customer service, day 14|4c604a0a-c107-4da1-bfda-d83d52fada9a (ny versjon av 010)
+021|-|-|The group chat picking a restaurant|- – IKKE POSTET (ny versjon av 011, også rotert åpning; 011 klippet brukt i stedet)
+022|-|-|When someone hits reply-all at work|- – IKKE POSTET (ny versjon av 016, tydelig ekte laptop-logo)
